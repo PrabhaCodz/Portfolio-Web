@@ -23,7 +23,7 @@ This was a website built to showcase my technical skills, web design skills.
 
 # INSTALLATION 
 
-Clone this Repository
+Clone this Repository : 
 git clone https://github.com/PrabhaCodz/Portfolio-Web .
 
 Install the Node Modules  : 
