@@ -14,12 +14,10 @@ This was a website built to showcase my technical skills, web design skills.
 
 ### Technologies Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript (ES6)
 * SCSS
-* Git
-* GitHub
 * React
 
 
