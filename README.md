@@ -26,8 +26,8 @@ This was a website built to showcase my technical skills, web design skills.
 Clone this Repository
 git clone https://github.com/PrabhaCodz/Portfolio-Web .
 
-Install the Node Modules 
+Install the Node Modules  : 
 npm install
 
-Run the Project 
+Run the Project   :
 npm run dev
